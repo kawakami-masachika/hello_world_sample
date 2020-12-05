@@ -5,4 +5,8 @@ class HomesController < ApplicationController
     user = User.new
     @my_introduce = user.introduce
   end
+
+  def new
+    @new = "This view is new.html.erb"
+  end
 end
