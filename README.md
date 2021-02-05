@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+![test image](app/assets/images/sapce_ER図-ER図_物理.png)
